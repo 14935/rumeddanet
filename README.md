@@ -1,0 +1,2 @@
+# rumeddanet
+Fine-tuning RuBioRoBERTa. 
